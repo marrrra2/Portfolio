@@ -110,6 +110,12 @@
     display: none;
   }
 
+.foto{
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+
   .hero {
     display: flex;
     align-items: center;
